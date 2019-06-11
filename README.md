@@ -1,2 +1,2 @@
-# Data-Science---Linear-Algebra
+# Data-Science-Linear-Algebra
 Linear Algbraic Tools for Data Science
